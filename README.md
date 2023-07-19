@@ -18,5 +18,5 @@ After installing arduino IDE then download this <a href="https://github.com/diid
 I using tinkercad.com for designing the casing, u can find the desing on <a href="https://github.com/diidhul/paindreiot/blob/main/images/wiring.png">here</a>, if u dont understand the image, please download the <a href="https://github.com/diidhul/paindreiot/blob/main/images/sketch%20paindre.fzz">fzz file</a> and open it on <a href="https://fritzing.org/download/">fritzing</a>
 <br>After all... the prototype will look like this <img>
 
-### Website
-<br> website is under maintenace i will update it ASAP
+### Paindre.APK
+APK is under maintenace i will update it ASAP
