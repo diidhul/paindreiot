@@ -27,4 +27,4 @@ I using tinkercad.com for designing the casing, u can find the desing on <a href
 <br>After all... the prototype will look like this <img>
 
 ### Paindre.APK
-APK is under maintenace i will update it ASAP
+APK is under maintenace i will update it, hope u wait for me
