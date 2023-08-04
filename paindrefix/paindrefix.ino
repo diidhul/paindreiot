@@ -49,6 +49,7 @@ void loop() {
     switch (command) {
       case IR_BUTTON_0: {
         myservo.write(0);
+        Serial.print(levelnyeri);
         SerialBT.println(levelnyeri);
         break;
       }
